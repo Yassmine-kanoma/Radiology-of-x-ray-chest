@@ -1,0 +1,3 @@
+0 covid-19
+1 Normal
+2 PNEUMONIA

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "157308130936",
+    "project_id": "xray-1956e",
+    "storage_bucket": "xray-1956e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157308130936:android:77227b6f4eb37be7e47f8d",
+        "android_client_info": {
+          "package_name": "com.yasminee.yes.yasmineee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiJSBo_CADK9chq1bhxTBbyqsixwT4TM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
